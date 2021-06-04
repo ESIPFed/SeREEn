@@ -1,2 +1,2 @@
 # SeREEn
-initial repo for Semantic Resource for Earth and Environment (SeREEn)
+initial repo for Semantic Resources for Earth and Environment (SeREEn)
